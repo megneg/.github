@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://megneg.com">
-    <img src="https://raw.githubusercontent.com/megneg/.github/main/assets/icon.svg" width="80" />
+    <img src="https://assets.megneg.com/images/icon.svg" width="80" />
   </a>
   <h2 align="center">Megneg</h2>
 </p>
